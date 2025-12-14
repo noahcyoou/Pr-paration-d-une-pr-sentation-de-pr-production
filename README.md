@@ -1,11 +1,23 @@
 # ÉPREUVE SYNTHÈSE – Préparation d’une présentation de préproduction  
 ## Yasuke:L'Ombre du Shogun
 ---
-Yasuke:L'Ombre du Shogun est un jeu différent qui mélange plusieurs aspect intéressant de nombreux jeux, qui vas **RÉVOLUTIONER** le monde des jeux d'histoires et comment on les approches. 
+Yasuke: L'Ombre du Shogun est un jeu différent qui mélange plusieurs aspect intéressant de nombreux jeux, qui vas **RÉVOLUTIONER** le monde des jeux d'histoires et comment on les approches. 
 
 ## Besoin
 ### Public cible
 Des joueurs qui aimerait essayer un nouveau défis. Pour les joueurs qui aiment les jeux styles soulslikes qui sont tres difficiles, mais avec une recompences ultra satisfesant. Cest aussi pour les joueurs qui aimes les ressouces management et les jeux des survies.
+### Qu'est-ce qui est important pur eux?
+La chose la plus important qui vient avec l'expérience de jouer a ce jeux est de créer un sentiment de accomplissement pour le joueur. 
+
+- La défaite des differents bosses
+- La decouvert de la grande map
+- L'aquisition de nouveux matériaux et armes
+- le sentiment de réussite après de missions difficiles
+
+Sont tous des choses que le joueur doit ressentir quand il joue au jeux.
+### Qu'est-ce que le projet vise a résoudre
+Le projet vise a créer un nouveux genre qui mélange les meilleurs apsect de d'autre jeu pour créer une nouvelle expérience complètemnt différent. De ressortir du lot et que le joueur soit surpris et accrocher a celle ci. C'est aussi une belle occasion de créer une expérience nouvelle dans le monde du gaming et créer un jeu pour ceux qui se sont toujours demandez si tout les différents élément pourrait marcher ensemble.
+
 ---
 ## Concept
 ### Histoire
@@ -21,30 +33,67 @@ Des joueurs qui aimerait essayer un nouveau défis. Pour les joueurs qui aiment 
 
 ### Boucles de jeux
 Votre but est de améliorer votre equipement et exploré. Ceci but etre fait avec:
+
 - l'exploration de nouveau territoire
 - Battres des bosses et aquérires le leurs
 - acheter grace au différent marché a travers la map
+
 Vous devez reprendre le controle du japon en:
+
 - Decouvrant des nouveaux territoires
 - Battre des zones de campement ennemis
 - Battres tous les generals situé a travers la map
-Il a un total de 6 mini boss a travers la map. Il donne tous chacun une nouvelle piece d'équipement(armure,katana,arc a fleche,double kunai,shurriken, grand katana) et te font decouvrir un nouvelle type de matière (Bambou,Pierre aiguiser, Cuivre,Argent,Fer,Acier japonais).Une fois la ressource trouver elle est accessbible partout a travers le nouveau territoire.
+
+Il a un total de 6 mini boss a travers la map. Il donne tous chacun une nouvelle piece d'équipement(armure,katana,arc a fleche,double kunai,shurriken, grand katana) et te font decouvrir un nouvelle type de matière (Bambou,Pierre aiguiser, Cuivre,Argent,Fer,Acier japonais). Une fois la ressource trouver elle est accessbible partout a travers le nouveau territoire.
 
 ### Aspect survie
-IL faut absolument les besoins humains:
+Il faut absolument les besoins humains:
+
 - dormir
 - boire
 - manger
-Si les besoins ne sont pas comblé, tu devient plus faibles et moin effectifs(moin de dommage,plus lent,fatigue l'écran devient plus sombre). Dormir permet de avancer le temps. Certains nourriture donnes des effets différents. Il faut chasser pour manger. Lorsque tu meurt a cause de quoi que se sois tu garde tes objets deja crafté, mais tu perd tout les ressources dans ton inventsire.
+
+Si les besoins ne sont pas comblé, tu devient plus faibles et moin effectifs(moin de dommage,plus lent,fatigue l'écran devient plus sombre). Dormir permet de avancer le temps. Certains nourriture donnes des effets différents. Il faut chasser pour manger. Lorsque tu meurt a cause de quoi que se sois tu garde tes objets deja crafté, mais tu perd tout les ressources dans ton inventsire. Pour survivre dans la narture tu dois te construire un habitats/maison. Pour sauvegarder tu dois dormir. Si tu meurt avant d'avoir sauvegarder tu pert tout ton progrès de jusqu'a avant avoir dormi.
+
 ### Difficulté du jeux
----
+Le jeux est difficile. Il n'est pas fait pour quelqu'un qui veut simplement profit de l'histoire
+
+### Le style visuel
+Le style est inspiré des anciennes peintures japonaises fait au pinceau. Il prend aussi grandes inspirations du jeu okami. Toutes est fait de en cel shading. Le but est de vraiment prendre capturé l'atmosphere japonais toutes en restant paisible et artisitique.  
+
 ### Choix Technologiques
 Un jeux faite avec unreal engine 5 pour pouvoir géré le Toon shading et le art style.
 
----
-
 ### En quoi le jeux repond aux attentes du publics cibles?
 C'est un jeu qui offrent un défis au gamers qui aime les jeux difficiles, mais qui offrent un défis supplémentaire avec le ressource management et une histoire développer. Ce **n'est pas un jeux pour les CASUAL GAMERS**.
+
+---
+## Description des taches principales
+### Pésentation des quatres phases de développement
+# Prépoduction
+- Conceptualisation détailler du jeu (personnage,les mécaniques de jeu, l'histoire,les niveaux)
+- Planification(budget,équipe,calendrier)
+-Prototypage
+# production
+L'étapes de création du jeux. Tout le traveil qui vient avec la création du contenu, premiere beta, interface, finission de la programmation etc
+# Postproduction
+- Polissage du jeu pour le rendre meileur
+- Testing finale du jeux
+- lancement au publique
+# opération
+- correction avec differentes patches
+- mise a jour
+- suppervison des défaults
+
+### liste des taches essentielles pour chacune des phases
+
+## Conclusion
+### Ce qui rend le porjet innovant
+C'est un mélange de plus categorie de jeu différent. Aucun autre jeux sur le marcher offre toute les différent aspect présenter. C'est comme un nouveau genre créer
+### Ce qui le distingue des autres
+
+
+### Pourquoi il pourrait attirer des invesstiseurs Kickstarter
 
 
 
